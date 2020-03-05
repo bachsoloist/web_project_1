@@ -32,6 +32,11 @@
     z-index: 2;
 }
 
+.logo {
+    width: 154px;
+    height: 31px;
+}
+
 .logo_place_header{
     background-image: url(../images/logo.png);
     width: 154px;
@@ -281,6 +286,12 @@
     display: flex;
     min-height: 350px;  
     justify-content: space-between; 
+}
+
+.footer__links {
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
 }
 
 
