@@ -288,14 +288,13 @@
     justify-content: space-between; 
 }
 
-.footer__links {
+.footer__column-links {
     padding: 0;
     text-decoration: none;
     list-style-type: none;
 }
 
-
-.footer__column-links{
+.footer__column-link {
     color: #707070;
     display: block;
     line-height:  30px;
