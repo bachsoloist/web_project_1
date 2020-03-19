@@ -32,11 +32,6 @@
     z-index: 2;
 }
 
-.logo {
-    width: 154px;
-    height: 31px;
-}
-
 .logo_place_header{
     background-image: url(../images/logo.png);
     width: 154px;
@@ -44,7 +39,8 @@
     position: absolute;
     top: 30px;
     left: 64px; 
-    z-index: 3;   
+    z-index: 3;
+    background-size: cover;   
 }
 
 .header__title{
